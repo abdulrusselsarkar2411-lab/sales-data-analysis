@@ -1,3 +1,4 @@
+<img width="1032" height="517" alt="sales dashboard png" src="https://github.com/user-attachments/assets/ebc30ad1-a22a-49d5-a40a-135c5986933b" />
 # 📊 Sales Data Analysis (SQL + Excel Dashboard)
 
 ## 📌 Project Overview
