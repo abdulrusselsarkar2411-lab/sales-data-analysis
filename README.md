@@ -1,4 +1,3 @@
-<img width="1032" height="517" alt="sales dashboard png" src="https://github.com/user-attachments/assets/ebc30ad1-a22a-49d5-a40a-135c5986933b" />
 # 📊 Sales Data Analysis (SQL + Excel Dashboard)
 
 ## 📌 Project Overview
@@ -38,6 +37,7 @@ This project analyzes sales data using SQL and builds an interactive Excel dashb
   - Line Chart → Monthly Sales Trend  
   - Bar Chart → Top Customers  
 - Slicers for dynamic filtering (Category, Region, Country)  
+<img width="1032" height="517" alt="sales dashboard png" src="https://github.com/user-attachments/assets/ebc30ad1-a22a-49d5-a40a-135c5986933b" />
 
 ---
 
